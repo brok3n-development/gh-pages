@@ -9,7 +9,7 @@
 	import { ScrollArea } from "$lib/components/ui/scroll-area/index.js";
 </script>
 
-<div class="hidden md:block">
+<div class="md:block">
 	<Menu />
 	<div class="border-t">
 		<div class="bg-background">
